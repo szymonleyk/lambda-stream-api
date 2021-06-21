@@ -1,4 +1,4 @@
-package db.streamapi;
+package db.streamapi.cat;
 
 import java.util.ArrayList;
 import java.util.List;

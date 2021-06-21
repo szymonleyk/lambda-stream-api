@@ -1,4 +1,4 @@
-package db.streamapi;
+package db.streamapi.cat;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
